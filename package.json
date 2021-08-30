@@ -12,7 +12,8 @@
     "test": "mocha -R spec"
   },
   "dependencies": {
-    "json-ptr": "~0.1.1"
+    "http-server": "^13.0.1",
+    "json-ptr": "^2.2.0"
   },
   "devDependencies": {
     "expect.js": "~0.2.0",
