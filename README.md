@@ -1,3 +1,11 @@
+This fork is only for addressing pertinent security vulns. Long-term we should remove our dependence on this module.
+
+
+
+
+
+
+
 json-path (alpha) [![Build Status](https://travis-ci.org/flitbit/json-path.png)](http://travis-ci.org/flitbit/json-path)
 =========
 
